@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "611319167151",
+    "firebase_url": "https://boffirebaseproject.firebaseio.com",
+    "project_id": "boffirebaseproject",
+    "storage_bucket": "boffirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611319167151:android:e457888406ceb861",
+        "android_client_info": {
+          "package_name": "cs415app.bof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611319167151-en8mpl0ba3adiukas20fnujgs1ggcqg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cs415app.bof",
+            "certificate_hash": "cad316325fcc90d19ee972b22464047b5d4c9aef"
+          }
+        },
+        {
+          "client_id": "611319167151-4hel9pd5ti55urpt9l5elcn7rv8qtmv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc4OdfhVNDPYuJmukxkHmm1VTfG1rWd3M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611319167151-4hel9pd5ti55urpt9l5elcn7rv8qtmv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
